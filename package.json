@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-gbook-codetabs",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "support @import and codetabs",
   "engines": {
@@ -16,6 +16,7 @@
     "url": "https://github.com/q9090960bnb3/gitbook-plugin-gbook-codetabs"
   },
   "dependencies": {
-    "escape-html": "^1.0.3"
+    "escape-html": "^1.0.3",
+    "nrm": "^1.2.6"
   }
 }

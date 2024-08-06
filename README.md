@@ -55,7 +55,7 @@
 
 ## display
 
-[demo](./demo.gif)
+![demo](./demo.gif)
 
 ## thanks
 
